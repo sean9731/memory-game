@@ -1,0 +1,96 @@
+/* CSS files add styling rules to your content */
+
+body {
+  font-family: helvetica, arial, sans-serif;
+  margin: 2em;
+  background-color: slategray;
+  color:white;
+}
+
+h1 {
+  font-family: verdana, arial, sans-serif; 
+  font-style: italic;
+  color: #CEEBFB;
+}
+
+button {
+  padding: 10px;
+  border-radius: 10px;
+   
+}
+
+#gameButtonArea > button {
+  width:200px;
+  height:200px;
+  margin:2px;
+}
+
+.hidden {
+  display:none;
+  
+}
+
+#btn1 {
+  background: lightgreen;
+  transition: box-shadow .2s;
+}
+
+#btn2 {
+  background:lightblue;
+  transition: box-shadow .2s;
+}
+
+#btn3 {
+  background:pink;
+  transition: box-shadow .2s;
+}
+
+#btn4 {
+  background:lightyellow;
+  transition: box-shadow .2s;
+}
+
+#btn1:active, #btn1.lit {
+  background:green;
+}
+
+#btn2:active, #btn2.lit {
+  background:blue;
+}
+
+#btn3:active, #btn3.lit {
+  background:red;
+}
+
+#btn4:active, #btn4.lit {
+  background:yellow;
+}
+
+#btn1:hover {
+  box-shadow: 2px 2px 10px lightgreen;
+  transiton: 1s;
+}
+
+#btn2:hover {
+  box-shadow: 2px 2px 10px lightblue;
+  transiton: 1s;
+}
+
+#btn3:hover {
+  box-shadow: 2px 2px 10px pink;
+  transiton: 1s;
+}
+
+#btn4:hover {
+  box-shadow: 2px 2px 10px lightyellow;
+  transiton: 1s;
+}
+
+.arcadeMode {
+  padding-top:20px;
+}
+
+#arcadeBtn {
+  background-image: linear-gradient(to right, #FBCECE,#CEFBCF,#CEDCFB);
+
+}
