@@ -39,10 +39,13 @@ The following **additional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
+
 Base game demo:
-Base game demo:
+
   <img src="http://g.recordit.co/B7Qdr5mmwm.gif" width =250><br>
+  
 Arcade mode demo: 
+
   <img src="http://g.recordit.co/L22Ca5F3ee.gif" width =250><br>
 
 
