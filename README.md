@@ -40,10 +40,10 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 Base game demo:
-![x] http://g.recordit.co/B7Qdr5mmwm.gif
-
-Arcade mode demo:
-![x] http://g.recordit.co/L22Ca5F3ee.gif
+Base game demo:
+  <img src="http://g.recordit.co/B7Qdr5mmwm.gif" width =250><br>
+Arcade mode demo: 
+  <img src="http://g.recordit.co/L22Ca5F3ee.gif" width =250><br>
 
 
 ## Reflection Questions
